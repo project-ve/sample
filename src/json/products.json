@@ -1,0 +1,99 @@
+[{ 
+    "name": "ruby",
+    "price": "225.3456",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in ultricies erat, ut fermentum quam. Donec pharetra turpis sit amet imperdiet interdum",
+    "canPurchase": true,
+    "outOfStock": false,
+    "Shine" : "8",
+    "Faces" : "14",
+    "Rarity": "7",
+    "Color" : "#CCC",
+    "images": [
+      {
+        "full": "images/ruby.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "stars": 5,
+        "comments": "this is really awesome product",
+        "author": "ad@mem.com"
+      },
+      {
+        "stars": 1,
+        "comments": "this product sucks",
+        "author": "hate@memsd.com"
+      },
+      {
+        "stars": 3,
+        "comments": "Just ok !!",
+        "author": "joohn@codeme.com"
+      }
+    ]
+  },
+  { 
+    "name": "emerald",
+    "price": "260.1234",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in ultricies erat, ut fermentum quam.",
+    "canPurchase": true,
+    "outOfStock": false,
+    "Shine" : "8",
+    "Faces" : "14",
+    "Rarity": "7",
+    "Color" : "#CCC",
+    "images": [
+      {
+        "full": "images/emerald.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "stars": 5,
+        "comments": "this is really awesome product",
+        "author": "ad@mem.com"
+      },
+      {
+        "stars": 1,
+        "comments": "this product sucks",
+        "author": "hate@memsd.com"
+      },
+      {
+        "stars": 3,
+        "comments": "Just ok !!",
+        "author": "joohn@codeme.com"
+      }
+    ]
+  },
+  { 
+    "name": "ruby",
+    "price": "225.342",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in ultricies erat",
+    "canPurchase": true,
+    "outOfStock": false,
+    "Shine" : "8",
+    "Faces" : "14",
+    "Rarity": "7",
+    "Color" : "#CCC",
+    "images": [
+      {
+        "full": "images/ruby.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "stars": 5,
+        "comments": "this is really awesome product",
+        "author": "ad@mem.com"
+      },
+      {
+        "stars": 1,
+        "comments": "this product sucks",
+        "author": "hate@memsd.com"
+      },
+      {
+        "stars": 3,
+        "comments": "Just ok !!",
+        "author": "joohn@codeme.com"
+      }
+    ]
+}]
