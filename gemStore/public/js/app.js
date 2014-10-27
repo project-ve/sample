@@ -1,7 +1,7 @@
 // Good practise to enclose all your code in an closure
 (function(){
   // Create store module and specify the dependencies
-  var app = angular.module('store', ['store-products']);
+  var app = angular.module('store', ['store-menu', 'store-products']);
 
   // Store controller fetches products info
   // This controller is used in index.html to bind json to template expression..

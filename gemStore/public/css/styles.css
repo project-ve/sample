@@ -70,3 +70,33 @@ textarea:focus, input:focus{
   outline: 0;
   box-shadow: none;
 }
+
+
+/* menu-bar */
+
+.menu-bar {
+  list-style-type: none;
+  margin-top: 20px;
+}
+
+.menu-bar li{
+  display: inline;
+  margin: 5px;
+}
+
+.menu-bar li a {
+  color: white;
+  font-size: 22px;
+  background: #da197d;
+  padding: 15px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.menu-bar li a:hover{
+  background: #a7064a;
+}
+
+.menu-bar .menuActiveTab a{
+  background-color: #a7064a;
+}
