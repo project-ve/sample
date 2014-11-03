@@ -1,5 +1,5 @@
 sample
 ======
 
-Angular sample app
+Angular sample app,
 Imitation of a code school project
